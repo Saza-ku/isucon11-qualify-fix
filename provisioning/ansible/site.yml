@@ -15,11 +15,11 @@
   roles:
     - langs.go
     - langs.nodejs
-    - langs.perl
-    - langs.php
-    - langs.python
-    - langs.ruby
-    - langs.rust
+    # - langs.perl
+    #- langs.php
+    #- langs.python
+    #- langs.ruby
+    #- langs.rust
     - contestant
 
 - name: "contestant roles for the qualify day"
@@ -48,11 +48,11 @@
   roles:
     - langs.go
     - langs.nodejs
-    - langs.perl
-    - langs.php
-    - langs.python
-    - langs.ruby
-    - langs.rust
+    # - langs.perl
+    # - langs.php
+    # - langs.python
+    # - langs.ruby
+    # - langs.rust
     - contestant
     - bench
 
